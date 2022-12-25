@@ -37,7 +37,7 @@ module.exports = {
 
         const commands = new EmbedBuilder()
         .setTitle('Commands')
-        .setDescription(`${emojis.reply}__/block__ - Block me from a certain channel\n${emojis.reply2}__/unblock__ - unblock me if you have blocked me previously\n${emojis.reply3}__/about__ - Information about me\n${emojis.reply3}__/define__ - seach a word in urban dictionary\n${emojis.reply4}__/gender__ - Guess your gender`)
+        .setDescription(`__/block__ - Block me from a certain channel\n__/unblock__ - unblock me if you have blocked me previously\n__/about__ - Information about me\n__/define__ - seach a word in urban dictionary\n__/gender__ - Guess your gender`)
         .setColor('#FFD4B2')
 
         let msg = await interaction.reply({ embeds: [embed], components: [row] })
