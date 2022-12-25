@@ -1,0 +1,10 @@
+{
+    "clientId": "Your bot's user id",
+    "token": "Your bot's token",
+    "emojis": {
+        "reply": "<:reply:1056531798257041498>",
+        "reply2": "<:reply2:1056531795874685020>",
+        "reply3": "<:reply3:1056531794096296056>",
+        "reply4": "<:reply4:1056531791999152159>"
+    }
+}
