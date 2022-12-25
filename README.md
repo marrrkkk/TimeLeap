@@ -1,6 +1,8 @@
 # TimeLeap
 A Discord bot that sends random messages from the previously sent messages in the same channel.
 
+[Invite TimeLeap](https://discord.com/api/oauth2/authorize?client_id=1048201296462741589&permissions=414464735296&scope=applications.commands%20bot)
+
 ## Preparation
 To run the the bot, make sure you have [Node.js](https://nodejs.org/en/) installed and a code a editor. I recommend [Visual Studio Code](https://code.visualstudio.com)
 
